@@ -3,6 +3,7 @@ public class Main {
 
         // TODO 1 to jest commit nr 1
         // TODO 2 to jest commit nr 2
+        // TODO 7 to jest commit no 7
 
     }
 }
